@@ -1188,13 +1188,13 @@ Where:
 
 $$
 S_t
-;\rightarrow;
+\rightarrow
 s
-;\rightarrow;
+\rightarrow
 L(s)
-;\rightarrow;
+\rightarrow
 \text{Cognac-class scalar}
-;\rightarrow;
+\rightarrow
 S_{t+1}
 $$
 
