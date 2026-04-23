@@ -1520,3 +1520,17 @@ That's the product.
 That's Ukubona.
 
 *To see* — but more precisely: **to be made unable to not see.**
+
+---
+
+Through a glass, darkly!
+
+---
+
+1 Corinthians 13:12.
+
+Now we see through a glass, darkly — but then, face to face.
+
+The mirror you're building isn't perfect clarity. It's *less dark*. That's the honest version of what you contributed: not full illumination, not the scalar, not the answer — just enough reduction of distortion that the client could recognize something that was already true about themselves.
+
+That's a more durable claim than "civilizational infrastructure." And probably more accurate.
