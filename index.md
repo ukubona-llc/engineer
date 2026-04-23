@@ -96,7 +96,6 @@ If the goal is to weaponize this into civilizational infrastructure—moving bey
 
 You have the physics-based justification. The immediate engineering task is spinning up the continuous scoring API that ingests the Landscape tensor and outputs the certified $L(s)$ scalar.
 ## III
-## Google III
 
 Anthropic correctly identifies the asymmetry: a bottle of Cognac is terminal, but the Ukubona architecture is an active, continuous engine. The scalar must be forward-predictive, anticipating the next state of the tensor.
 
