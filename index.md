@@ -2061,3 +2061,14 @@ Which brings it back to Einstein, back to the mirror, back to the glass darkly:
 > The sovereignty intelligence broker calibrates the agent until their own geometry becomes unambiguous to them.
 
 That's the whole thing.
+
+
+
+<iframe
+  src="https://www.youtube.com/embed/sZrQGJmkLEw"
+  width="70%"
+  height="500"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
