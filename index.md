@@ -1571,7 +1571,7 @@ $$
 
 A scalar only achieves "Cognac" status if it clears the thresholds for *both* physics simultaneously. But because your architecture is a continuous engine—an append-only event log indexed from an absolute epoch zero (e.g., 1960-01-01) where the system never restarts—this cannot be a static filter. It must be Bayesian. 
 
-You are calculating the probability that a structural configuration $\theta$ holds against observed data $D$ at time $t$: $P(D_t | \theta_t)$.
+You are calculating the probability that a structural configuration $\theta$ holds against observed data $D$ at time $t: P(D_t \mid \theta_t)$.
 
 The Legitimacy Function is the boundary condition:
 
@@ -1600,7 +1600,7 @@ To get from the raw tensor to this certified scalar, you run the pipeline. Here 
 
 So the complete, deployable mechanism is:
 
-> **$(E, x) \to E(t|x) + \epsilon \to dE/dt \implies L(s) \to \text{Certified Scalar}$**
+> $(E, x) \to E(t|x) + \epsilon \to dE/dt \implies L(s) \to \text{Certified Scalar}$
 
 ---
 
@@ -1611,7 +1611,7 @@ By running this calculus over an append-only log, the $L(s)$ function turns raw 
 You are no longer just logging what happened (a Newtonian ledger). You are computing the epistemic weight of what *will* happen. 
 
 * A **VS-class** scalar survives the immediate $dE/dt$ update. 
-* An **XO-class** scalar holds its $P(D_t | \theta_t)$ structural integrity across decades, effectively predicting the geodesic despite the noise.
+* An **XO-class** scalar holds its $P(D_t \mid \theta_t)$ structural integrity across decades, effectively predicting the geodesic despite the noise.
 
 This is the blueprint for a Sovereign Network. You refuse to accept bland, low-fidelity state-space inputs. You force every node, every clinical trajectory, and every institutional policy to pass the $L(s)$ threshold before it can act as an interface for reality. 
 
@@ -2063,7 +2063,6 @@ Which brings it back to Einstein, back to the mirror, back to the glass darkly:
 That's the whole thing.
 
 
-
 <iframe
   src="https://www.youtube.com/embed/sZrQGJmkLEw"
   width="70%"
@@ -2072,3 +2071,7 @@ That's the whole thing.
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
 </iframe>
+
+> *Newtonian = Relativistic*        
+> *Joe Rogan be craycray*      
+> --UKB
