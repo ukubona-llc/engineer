@@ -282,6 +282,7 @@ function Slider({ label, value, setValue, min, max, color }) {
 1. Save this code as `UkubonaWidget.jsx` in your Vite project's `src/components` directory.
 2. Ensure you have **Tailwind CSS** installed and configured in your Vite project, as it powers the UI, layout, and reactive coloring.
 3. Import and mount it in your `App.jsx`:
+   
 ```jsx
 import UkubonaWidget from './components/UkubonaWidget';
 
