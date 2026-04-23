@@ -23,11 +23,14 @@ Ontology → Engineering [Input → Throughput → Output] → Epistemology
 
 
 
-   <iframe
-      src="https://www.youtube.com/embed/6iG0V26gb1M "
-      width="70%"
-      height="500px"
-   >
+<iframe
+  src="https://www.youtube.com/embed/6iG0V26gb1M"
+  width="70%"
+  height="500"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 
 Brandy → ? → Cognac
